@@ -8,7 +8,7 @@ These demos are designed to highlight the [tidyverse](http://tidyverse.org) and 
 
 1. [Quick facts reports](http://colorado.rstudio.com:3939/content/624/rmd_unparam.html). Create a descriptive report for a single Star Wars character.
 
-2. [Quick facts report with user inputs](http://colorado.rstudio.com:3939/content/807/rmd_param.html). Create a descriptive report for any Star Wars character based on user input.
+2. [Quick facts report with user inputs](http://colorado.rstudio.com:3939/content/807/rmd_param.html) [[Login]](https://colorado.rstudio.com/rsc/connect/#/apps/807/access/822). Create a descriptive report for any Star Wars character based on user input.
 
 3. [Speed dashboard](http://colorado.rstudio.com:3939/content/1811/). Analyze ship speed as a function of various inputs. 
 
@@ -22,6 +22,6 @@ These demos are designed to highlight the [tidyverse](http://tidyverse.org) and 
 
 ### Examples from our galaxy
 
-1. [Stock report](http://colorado.rstudio.com:3939/content/621/rmd_parameterized_stockreport.html). Build a stock report based on user input.
+1. [Stock report](http://colorado.rstudio.com:3939/content/621/rmd_parameterized_stockreport.html) [[Login]](https://colorado.rstudio.com/rsc/connect/#/apps/621/access/2023). Build a stock report based on user input.
 
 2. [Profit vs volume dashboard](http://colorado.rstudio.com:3939/content/1807/). Experiment with non-linear relationships as described in this popular Harvard Business Review article.
