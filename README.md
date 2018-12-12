@@ -1,6 +1,6 @@
 # RStudio Connect and Tidyverse Roadshow
 
-![](img/swars.png){width=4.5in}
+<img src="img/swars.png" alt="star wars" width="400"/>
 
 These demos are designed to highlight the [tidyverse](http://tidyverse.org) and [RStudio Connect](https://rstudio.com/about/products/connect). We obtain data from the [Star Wars API](http://swapi.co/about) and the [quantmod](https://www.quantmod.com/) package to produce output using [R Markdown](http://rmarkdown.rstudio.com), [Shiny](http://shiny.rstudio.com), and [Plumber](https://www.rplumber.io/).
 
